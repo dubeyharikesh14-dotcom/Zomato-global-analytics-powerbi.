@@ -10,9 +10,4 @@
 * **Custom DAX Measures:** Engineered calculations for dynamic metrics including `Restaurant Count`, `Average Cost`, `Average Rating`, and conditional formatting.
 * **UI/UX & Mobile:** Designed a synchronized two-page navigation system with dynamic slicers, synchronized gauge visuals, and a fully optimized vertical Mobile Layout.
 
-## Dashboard Previews
-*(Desktop View)*
-![Desktop Dashboard](images/desktop_screenshot.png)
 
-*(Mobile Layout)*
-![Mobile Dashboard](images/mobile_screenshot.png)
